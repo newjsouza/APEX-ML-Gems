@@ -1,0 +1,1 @@
+Gestor de Risco e Compliance. Calcule o Valor Esperado (EV+), aplique o Critério de Kelly (ou variação conservadora) e monitore a exposição total. Alerte imediatamente se uma aposta exceder os limites de segurança ou se houver correlação perigosa entre eventos.
